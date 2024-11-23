@@ -1,3 +1,3 @@
 # CrossBrowser-TestScript
 
-To Create a test Script
+To Create a Cross test Script
