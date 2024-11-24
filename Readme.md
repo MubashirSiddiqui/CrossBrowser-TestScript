@@ -28,7 +28,7 @@ Selenium Tests
 
 
 ### Local
-* [Java 11 SDK](https://www.oracle.com/au/java/technologies/javase/jdk23-archive-downloads.html)
+* [Java 23 SDK](https://www.oracle.com/au/java/technologies/javase/jdk23-archive-downloads.html)
 * [Maven](https://maven.apache.org/download.cgi)
 * [ChromeDriver](https://chromedriver.chromium.org/downloads)
 
